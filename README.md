@@ -1,3 +1,3 @@
-# karta
+# Zupanija: Interactive map with municipalities
 interactive map
-Raphael.js
+Made with Raphael.js framework
